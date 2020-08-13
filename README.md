@@ -1,5 +1,5 @@
 # Best_common_script
-best_common_script for image and video
+best_common_script for image and video in deep learning
 
 ### Motivation
 
@@ -12,6 +12,10 @@ image的处理部分
 video的处理部分
 
 光流的计算
+
+文件系统相关 
+
+算法测试
 
 flops的计算
 
