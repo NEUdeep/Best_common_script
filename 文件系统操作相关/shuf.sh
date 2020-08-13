@@ -1,0 +1,1 @@
+shuf 1.txt -o 2.txt

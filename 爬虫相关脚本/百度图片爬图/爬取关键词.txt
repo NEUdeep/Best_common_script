@@ -1,0 +1,27 @@
+1,高速监控火灾 speed_monitor
+2,城市监控火灾 city_monitor
+3，农村监控火灾 rural_monitor
+4，小区监控火灾 village_monitor
+5，商场监控火灾 market_monitor
+
+
+
+
+
+监控下火灾场景 _monitor
+
+
+（去掉监控），然后再去搜一波
+
+6，汽车火灾 car
+7，汽车事故冒烟 car_accident
+10，农村着火图片rural_fire
+11，事故烟雾 accident_smoke
+12，
+
+
+反例：
+
+1，汽车冒黑烟 car_black_smoke
+2，
+3，

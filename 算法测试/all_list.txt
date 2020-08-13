@@ -1,0 +1,3 @@
+./shixibiandao/01/ ./shixibiandao/01/bukong.json ./shixibiandao/01/model.json
+./shixibiandao/02/ ./shixibiandao/02/bukong.json ./shixibiandao/02/model.json
+./shixibiandao/03/ ./shixibiandao/03/bukong.json ./shixibiandao/03/model.json
